@@ -1,0 +1,11 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive; /* A common retro game font */
+    text-align: center;
+}
+
+canvas {
+    background-color: #d2b48c; /* A sand-like color for the trade show floor */
+    border: 4px solid #8b4513; /* A brown border */
+}
